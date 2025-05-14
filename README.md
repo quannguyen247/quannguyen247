@@ -1,7 +1,7 @@
 # Hi there, I'm Nguyễn Đông Quân – aka quannguyen247 👋
 
 I'm a student from Vietnam, learningg at UIT-VNUHCM
-- I'm currently working on mobile app development.  
+- I'm currently working on mobile app development and VLSI design
 - I'm currently learning about front end.  
 - Languages I use: C, C++, Dart, Verilog, SystemVerilog, VHDL.
 
