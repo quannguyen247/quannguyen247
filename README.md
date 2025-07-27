@@ -18,3 +18,4 @@ I'm a student from Vietnam, learningg at UIT-VNUHCM
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Vivado AMD](https://img.shields.io/badge/Vivado-AMD-ff8c00?style=flat-square&logo=amd&logoColor=white)
+![Vivado](https://img.shields.io/badge/Vivado-Design-0055a5?style=flat-square&logo=xilinx&logoColor=white)
