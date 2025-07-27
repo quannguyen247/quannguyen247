@@ -13,9 +13,11 @@ I'm a student from Vietnam, learningg at UIT-VNUHCM
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FF9900?style=flat-square)
 ![VHDL](https://img.shields.io/badge/VHDL-FF9900?style=flat-square)
 ![Quartus II](https://img.shields.io/badge/Quartus%20II-FF9900?style=flat-square)
+![Vivado AMD](https://img.shields.io/badge/Vivado-AMD-ff8c00?style=flat-square&logo=amd&logoColor=white)
+![Vivado](https://img.shields.io/badge/Vivado-Design-0055a5?style=flat-square&logo=xilinx&logoColor=white)
+![Vivado Version](https://img.shields.io/badge/Vivado-2025.1-blue.svg)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Vivado AMD](https://img.shields.io/badge/Vivado-AMD-ff8c00?style=flat-square&logo=amd&logoColor=white)
-![Vivado](https://img.shields.io/badge/Vivado-Design-0055a5?style=flat-square&logo=xilinx&logoColor=white)
+
