@@ -2,7 +2,8 @@
 
 I'm a student from Vietnam, learningg at UIT-VNUHCM
 - I'm currently working on mobile app development and VLSI design
-- I'm currently learning about front end.  
+- I'm currently learning about front end.
+- I'm currently working on a research project about **Post-Quantum Cryptography for Passkey Authentication in IoT**  
 - Languages I use: C, C++, Dart, Verilog, SystemVerilog, VHDL.
 
 ## Languages and Tools 🛠️
