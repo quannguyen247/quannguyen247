@@ -3,7 +3,7 @@
 I'm a student from Vietnam, learning at UIT-VNUHCM
 - I'm currently working on mobile app development and VLSI design
 - I'm currently learning about front end.
-- I'm currently working on a research project about **Post-Quantum Cryptography for Passkey Authentication in IoT**  
+- I’m currently working on a research project about Post-Quantum Cryptography (PQC) for Passkey Authentication in IoT, focusing on Dilithium, Kyber, and SPHINCS+ algorithms.
 - Languages I use: C, C++, Dart, Verilog, SystemVerilog, VHDL.
 
 ## Languages and Tools 🛠️
