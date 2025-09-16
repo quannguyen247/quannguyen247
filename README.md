@@ -19,4 +19,6 @@ I'm a student from Vietnam, learning at UIT-VNUHCM
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
+![Proteus](https://img.shields.io/badge/Proteus-FF6600?style=flat-square&logo=proteus&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM-005A8B?style=flat-square&logo=arm&logoColor=white)
+![RISC-V](https://img.shields.io/badge/RISC--V-000000?style=flat-square&logo=riscv&logoColor=white)
