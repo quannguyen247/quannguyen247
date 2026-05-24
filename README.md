@@ -3,9 +3,9 @@
 I'm an undergraduate student at UIT-VNUHCM, currently in the IC Design Talent Program
 
 - My main technical focus is **VLSI / SoC Design**, especially **RTL Design**, **FPGA-based acceleration**, and **Design for Testability (DFT)**.
-- I am actively researching and developing hardware accelerators for NIST-standardized Post-Quantum Cryptography (**ML-KEM, ML-DSA, and SLH-DSA**), aiming for low-latency and area-efficient RTL implementations on FPGAs.
-- I also have a secondary interest in **high-speed digital design** and **RF IC**.
-- I am expanding my system-level perspective through **HW/SW co-design**, working with RISC-V ecosystems, and AI accelerator.
+- I am actively researching and developing hardware accelerators for NIST-standardized Post-Quantum Cryptography (**ML-KEM, ML-DSA, and SLH-DSA**), aiming for PPA-efficient RTL implementations on FPGAs.
+- I also have a secondary interest in **RFIC**.
+- I am expanding my system-level perspective through **HW/SW co-design**, working with RISC-V ecosystems and AI accelerators.
 - Languages I use: **Verilog, SystemVerilog, Tcl, C, C++, Python**.
 
 ## Languages and Tools 🛠️
