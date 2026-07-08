@@ -8,6 +8,12 @@ I'm an undergraduate student at UIT-VNUHCM, currently in the IC Design Talent Pr
 - I am expanding my system-level perspective through **HW/SW co-design**, working with RISC-V ecosystems and AI accelerators.
 - Languages I use: **Verilog, SystemVerilog, Tcl, C, C++, Python**.
 
+## Honors & Awards 🏆
+
+- **First Prize** – UIT Net Challenge 2025
+- **Finalist** – Makerthon 2025
+- **Honorable Mention** – Annual Microelectronics Olympiad (AMO) 2026 – National Round
+
 ## Languages and Tools 🛠️
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
