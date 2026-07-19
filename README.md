@@ -46,3 +46,17 @@ I'm an undergraduate student at UIT-VNUHCM, currently in the IC Design Talent Pr
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+## Featured Projects 🚀
+
+### 1. [ntt-mlkem](https://github.com/quannguyen247/12bit-ntt-mlkem)
+Hardware accelerator for ML-KEM (Kyber) Number Theoretic Transform (NTT) focusing on throughput and energy efficiency.
+- **Architecture**: Single-PE, 1-cycle/Butterfly pipeline.
+- **Optimizations**: Memory conflict-free banking for parallel dual-element access in a single clock cycle. Handled pipeline drain delays and timing alignment.
+- **Performance**: 906 cycles for NTT; 1162 cycles for INTT. 
+- **Efficiency**: Sustains 1 BF/cycle with 10 cycles of pipeline overhead (startup & drain latency), achieving 98.9% theoretical throughput efficiency.
+
+### 2. [SHAKE256-FPGA](https://github.com/quannguyen247/SHAKE256-FPGA)
+Resource-optimized SHAKE256 cryptographic accelerator deployed on Xilinx Artix-7 (xc7a100t).
+- **Throughput**: 4.66 Gbps at 205.46 MHz. 3.5x faster than the reference design in *Design of an Energy-Efficient SHA-3 Accelerator on Artix-7 FPGA for Secure Network Application (DOI: 10.3390/computers15010003)*.
+- **Resource Utilization**: 5,274 LUTs, 6,514 FFs. Requires 0 BRAMs and 0 DSPs (2.9x fewer LUTs and 3.5x fewer FFs than the reference).
+- **Energy Efficiency**: 9.45 Gbps/W (5.5x improvement) with 0.493W total power (37% reduction).
