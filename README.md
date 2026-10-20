@@ -10,6 +10,7 @@ I'm an undergraduate student in the **IC Design Talent Program** at **UIT-VNUHCM
 ## Honors & Awards 🏆
 
 - **First Prize** – UIT Net Challenge 2025
+- **First Prize** - 3rd UIT IC Design Competition 2026
 - **Finalist** – Makerthon 2025
 - **Honorable Mention** – Annual Microelectronics Olympiad (AMO) 2026 – National Round
 
